@@ -45,3 +45,8 @@ Para Git Bash:
 
 Para Terminal:
 **`TODO`**
+
+# Referencias
+
+- Clase 01 - Explicación adicional + paso a paso en Windows [**`(Ver video)`**](https://youtu.be/A7qfKmmE3z4)
+- Si querés saber más de líneas de comando, [**`mirá este video de Nicolás Quiroz`**](https://youtu.be/0w3vNO1Ajuk)
