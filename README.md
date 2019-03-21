@@ -1,6 +1,6 @@
 # Clase 01 [19/03]
 
-- [Temas cubiertos]()
+- [Temas cubiertos](https://github.com/ada-frontend-septimageneracion/clase-01#temas-cubiertos)
 - [#1 - Línea de comandos (CLI) o Terminal](https://github.com/ada-frontend-septimageneracion/clase-01#1---l%C3%ADnea-de-comandos-cli-o-terminal)
 - [#2 - Bases de Git](https://github.com/ada-frontend-septimageneracion/clase-01#2---bases-de-git)
   - [Instalación](https://github.com/ada-frontend-septimageneracion/clase-01#instalaci%C3%B3n)
