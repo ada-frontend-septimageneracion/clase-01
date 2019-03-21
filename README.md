@@ -1,5 +1,12 @@
 # Clase 01 [19/03]
 
+- [Temas cubiertos]()
+- [#1 - Línea de comandos (CLI) o Terminal](https://github.com/ada-frontend-septimageneracion/clase-01#1---l%C3%ADnea-de-comandos-cli-o-terminal)
+- [#2 - Bases de Git](https://github.com/ada-frontend-septimageneracion/clase-01#2---bases-de-git)
+  - [Instalación](https://github.com/ada-frontend-septimageneracion/clase-01#instalaci%C3%B3n)
+  - [_(Opcional)_ Configuración de interfaz](https://github.com/ada-frontend-septimageneracion/clase-01#opcional-configuraci%C3%B3n-de-interfaz)
+- [Referencias](https://github.com/ada-frontend-septimageneracion/clase-01#referencias)
+
 ## Temas cubiertos
 
 - Línea de comandos (CLI) o Terminal
@@ -7,12 +14,10 @@
 
 ## #1 - Línea de comandos (CLI) o Terminal
 
-Para evitar inconvenientes, todas vamos a usar las siguientes terminales:
-
 - Mac y Linux: Usar la aplicación **Terminal**
-- Windows: Usar la aplicación Git Bash (en caso de no tenerlo instalado, podés instalarlo desde la [**`página oficial de Git`**](https://git-scm.com/))
+- Windows: Usar la aplicación Git Bash (podés instalarlo desde la [**`página oficial de Git`**](https://git-scm.com/))
 
-En caso de tener un inconveniente intentando instalarlas, pidan ayuda en Slack. ¡Quizá alguien ya pasó por ese problema!
+Para evitar inconvenientes, todas vamos a usar esas terminales. En caso de tener un inconveniente intentando instalarlas, pidan ayuda en Slack. ¡Quizá alguien ya pasó por ese problema!
 
 ## #2 - Bases de Git
 
@@ -27,7 +32,7 @@ git --version
 
 Si muestra un error, entonces no tienen instalado Git. ¡Podés instalarlo desde la [**`página oficial de Git`**](https://git-scm.com/)!
 
-![Página principal de Git](/images/instalacion-git.png)
+[![Página principal de Git](/images/instalacion-git.png)](https://git-scm.com/)
 
 ### _(Opcional)_ Configuración de interfaz
 
@@ -44,7 +49,9 @@ Para Git Bash:
 ![Configuración Git (Win)](/images/configuracion-git-win.png)
 
 Para Terminal:
-**`TODO`**
+
+- [**`Linux`**](https://github.com/robbyrussell/oh-my-zsh) (inglés): Incluye zsh y oh-my-zsh. Léase con atención
+- [**`Mac`**](https://medium.com/the-code-review/make-your-terminal-more-colourful-and-productive-with-iterm2-and-zsh-11b91607b98c) (inglés): Incluye iTerm, zsh, colores...
 
 # Referencias
 
